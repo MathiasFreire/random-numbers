@@ -14,3 +14,6 @@ Alternative: For even greater simplicity, data can be stored in memory using a M
 1. Install dependencies:
    ```bash
    npm install
+2. Running
+   ```bash
+   npm run start
